@@ -22,8 +22,8 @@ main {
 }
 
 .container {
-  width: 384px;
-  /* max-width: 384px; */
+  width: 90%;
+  max-width: 384px;
   background-color: hsl(0, 0%, 100%);
   border-radius: 20px;
   border: 1px solid hsl(0, 0%, 7%);
